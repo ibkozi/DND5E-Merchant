@@ -1,4 +1,5 @@
 Multi-Shop Merchant System
+Note: Only works with 2014 Sheets
 How the system works
 This version has no built-in shop items.
 That means:
